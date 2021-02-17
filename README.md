@@ -1,2 +1,0 @@
-# sqlOracle
-Estudo
